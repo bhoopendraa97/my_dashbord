@@ -1,0 +1,25 @@
+{
+  "brand": [
+    {
+      "brandname": "puma",
+      "Companyname": "puma",
+      "Launchyear": "18-06-1994",
+      "price": "1200",
+      "id": "19e4"
+    },
+    {
+      "id": "0b43",
+      "brandname": "Nicky",
+      "Companyname": "Nicky",
+      "Launchyear": "13-06-1994",
+      "price": "5000"
+    },
+    {
+      "id": "cdc5",
+      "brandname": "Reedchiff",
+      "Companyname": "Reedchif",
+      "Launchyear": "2001",
+      "price": "2500"
+    }
+  ]
+}
